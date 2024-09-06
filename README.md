@@ -41,9 +41,10 @@ Start the Server
 
 Run the Nest.js server:
 
-bash
-Copiar código
-npm run start
+   ```bash
+      npm run start
+   ```
+
 The server will be available at http://localhost:3000.
 
 3. **Endpoints**
